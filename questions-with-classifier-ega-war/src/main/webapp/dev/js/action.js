@@ -1,6 +1,6 @@
 /* Copyright IBM Corp. 2015 Licensed under the Apache License, Version 2.0 */
 
-// For my sanity, please keep this alphabetical
+// For my sanity, please keep this alphabetical :)
 var action = {
     "ALTERNATIVE_QUESTION_BROADCAST"       : "a_list_of_alternative_answers_was_broadcasted",
     "ANSWER_RECEIVED_BROADCAST"            : "an_answer_was_received",
